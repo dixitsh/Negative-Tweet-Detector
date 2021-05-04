@@ -23,3 +23,8 @@ that takes any statement as an input and gives the percentage of various negativ
 measures in it as an output. The model is created for the English and Hinglish 
 languages
 We use this model in web page as well as in App
+
+Developed by
+PREETI SAHANI
+YASH SINGHAL 
+AYUSH DIXIT
