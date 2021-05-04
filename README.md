@@ -21,8 +21,8 @@ Regression and Naïve Bayes). The computed result is analyzed and the accuracy i
 compared. The better performing model had been used by a webapp designed by us 
 that takes any statement as an input and gives the percentage of various negativity 
 measures in it as an output. The model is created for the English and Hinglish 
-languages
-We use this model in web page as well as in App
+languages.
+We use this model in web page as well as in App.
 
 Developed by
 PREETI SAHANI
